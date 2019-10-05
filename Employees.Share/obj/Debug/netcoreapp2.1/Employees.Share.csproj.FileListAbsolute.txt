@@ -1,0 +1,16 @@
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Employees.Share.deps.json
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Employees.Share.dll
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Employees.Infraestructure.dll
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Employees.Infraestructure.pdb
+C:\Users\Heider\source\repos\Employees\Employees.Share\obj\Debug\netcoreapp2.1\Employees.Share.csprojAssemblyReference.cache
+C:\Users\Heider\source\repos\Employees\Employees.Share\obj\Debug\netcoreapp2.1\Employees.Share.csproj.CoreCompileInputs.cache
+C:\Users\Heider\source\repos\Employees\Employees.Share\obj\Debug\netcoreapp2.1\Employees.Share.AssemblyInfoInputs.cache
+C:\Users\Heider\source\repos\Employees\Employees.Share\obj\Debug\netcoreapp2.1\Employees.Share.AssemblyInfo.cs
+C:\Users\Heider\source\repos\Employees\Employees.Share\obj\Debug\netcoreapp2.1\Employees.Share.csproj.CopyComplete
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Employees.Share.pdb
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Http.dll
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Http.xml
+C:\Users\Heider\source\repos\Employees\Employees.Share\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\Heider\source\repos\Employees\Employees.Share\obj\Debug\netcoreapp2.1\Employees.Share.dll
+C:\Users\Heider\source\repos\Employees\Employees.Share\obj\Debug\netcoreapp2.1\Employees.Share.pdb

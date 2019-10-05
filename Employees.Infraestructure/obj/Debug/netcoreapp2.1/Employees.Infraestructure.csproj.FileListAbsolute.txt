@@ -1,0 +1,13 @@
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\bin\Debug\netcoreapp2.1\Employees.Infraestructure.deps.json
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\bin\Debug\netcoreapp2.1\Employees.Infraestructure.dll
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\bin\Debug\netcoreapp2.1\Employees.Infraestructure.pdb
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\obj\Debug\netcoreapp2.1\Employees.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\obj\Debug\netcoreapp2.1\Employees.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\obj\Debug\netcoreapp2.1\Employees.Infraestructure.AssemblyInfo.cs
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\obj\Debug\netcoreapp2.1\Employees.Infraestructure.dll
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\obj\Debug\netcoreapp2.1\Employees.Infraestructure.pdb
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Http.dll
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Http.xml
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\Heider\source\repos\Employees\Employees.Infraestructure\obj\Debug\netcoreapp2.1\Employees.Infraestructure.csproj.CopyComplete
